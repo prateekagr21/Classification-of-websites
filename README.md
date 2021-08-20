@@ -19,7 +19,7 @@
 - For solving the error : ValueError: np.nan is an invalid document converting the dtype object to unicode string
 
 
-## And then I made a Model for the Prediction :
+## And then I made my model for the Prediction :
 ### Term freq. and Inverse doc freq. - TF-IDF from Natural Language Processing - NLP.
 - Independent and Dependent Features.
 - Did Train-Test split<br> <br> <br>
