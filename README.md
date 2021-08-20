@@ -36,6 +36,7 @@
 - Found the Accuracy score
 - Plotted the confusion matrix
 - Plotted the classification report
+and done!
 
 
 
