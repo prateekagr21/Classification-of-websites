@@ -29,7 +29,7 @@
 ### . Stochastic gradient descent - SGD classifier
 - predicted...
 - Found the Accuracy score
-- Plotted the classification report
+- Plotted the classification report !
 
 ### . Multinomial Naive Bayes Classifier
 - predicted...
